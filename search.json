@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Firstname Lastname",
+    "section": "",
+    "text": "Home or Campus Street Address • City, State Zip • youremail@college.harvard.edu • phone number"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Firstname Lastname",
+    "section": "Education",
+    "text": "Education\n\nHarvard University\nCambridge, MA\nDegree, Concentration. GPA [Note: GPA is Optional]\nGraduation Date\nThesis [Note: Optional]\nRelevant Coursework: [Note: Optional. Awards and honors can also be listed here.]\n\n\nStudy Abroad [Note: If Applicable]\nCity, Country\nStudy abroad coursework in\nMonth Year – Month Year\n\n\nHigh School Name\nCity, State\n[Note: May include GPA, SAT/ACT scores, or academic honors an employer may want to know]\nGraduation Date"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Firstname Lastname",
+    "section": "Experience",
+    "text": "Experience\n\nOrganization\nCity, State\nPosition Title\nMonth Year – Month Year\n\nBeginning with your most recent position, describe your experience, skills, and resulting outcomes in bullet form.\nBegin each line with an action verb and include details that will help the reader understand your accomplishments, skills, knowledge, abilities, or achievements.\nQuantify where possible.\nDo not use personal pronouns; each line should be a phrase rather than a full sentence.\n\n\n\nOrganization\nCity, State\nPosition Title\nMonth Year – Month Year\n\nWith your next-most recent position, describe your experience, skills, and resulting outcomes in bullet form.\nBegin each line with an action verb and include details that will help the reader understand your accomplishments, skills, knowledge, abilities, or achievements.\nQuantify where possible.\nDo not use personal pronouns; each line should be a phrase rather than a full sentence."
+  },
+  {
+    "objectID": "index.html#leadership-activities",
+    "href": "index.html#leadership-activities",
+    "title": "Firstname Lastname",
+    "section": "Leadership & Activities",
+    "text": "Leadership & Activities\n\nOrganization\nCity, State\nRole\nMonth Year – Month Year\n\nThis section can be formatted similarly to the Experience section, or you can omit descriptions for activities.\nIf this section is more relevant to the opportunity you are applying for, consider moving this above your Experience section."
+  },
+  {
+    "objectID": "index.html#skills-interests-note-optional",
+    "href": "index.html#skills-interests-note-optional",
+    "title": "Firstname Lastname",
+    "section": "Skills & Interests [Note: Optional]",
+    "text": "Skills & Interests [Note: Optional]\n\nTechnical: List computer software and programming languages and your level of fluency\nLanguage: List foreign languages and your level of fluency\nLaboratory: List scientific / research lab techniques or tools [If Applicable]\nInterests: List activities you enjoy that may spark interview conversation"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  }
+]
